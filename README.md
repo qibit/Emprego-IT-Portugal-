@@ -20,7 +20,7 @@ The offers are available on https://github.com/frontendbr/vagas/issues and www.q
 
 Every job offer will have a link where you can apply. You can also apply directly on our website, selecting the offer: http://www.qibit.pt/vagas/
 
-# Want  more update from QiBit? Follow us
+## Want  more update from QiBit? Follow us
 
 - [Website](http://www.qibit.pt/)
 - [LinkedIn](https://www.linkedin.com/company/qibit-portugal/)
