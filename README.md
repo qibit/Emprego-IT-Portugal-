@@ -14,16 +14,16 @@ We work with companies from different industries, which allows us to present a w
 
 This space's goal is to share job offers for developers through Github issues. 
 The offers are advertised by QiBit Portugal, therefore the work location will mainly be on the Portuguese territory.
-The offers are available on https://github.com/frontendbr/vagas/issues and www.qibit.pt/vagas/
+The offers are available on https://github.com/qibit/Job-Offers-Portugal/issues
 
 ## How to apply for a job offer?
 
-Every job offer will have a link where you can apply. You can also apply directly on our website, selecting the offer: http://www.qibit.pt/vagas/
+Every job offer will have a link where you can apply
 
 ## Want more updates from QiBit? Follow us
 
 - [Website](http://www.qibit.pt/)
 - [LinkedIn](https://www.linkedin.com/company/qibit-portugal/)
 - [Facebook](https://www.facebook.com/qibitportugal/)
-- [Medium]()
+- [Medium](https://medium.com/@qibitportugal)
 - [Job Offers](http://www.qibit.pt/vagas/)
