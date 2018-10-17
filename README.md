@@ -1,8 +1,8 @@
 <p align="center">
-<img src="http://www.qibit.pt/wp-content/uploads/2015/07/logo-qibit-high.png" width="400" alt="Front-end Brasil">
+<img src="http://www.qibit.pt/wp-content/uploads/2015/07/logo-qibit-high.png" width="400">
 </p>
 <h1 align="center">Job Offers</h1>
-<p align="center">Space dedicated for sharing job offers for developers</p>
+<p align="center">Space dedicated to sharing job offers for developers</p>
 
 # About QiBit Portugal
 
